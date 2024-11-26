@@ -1,6 +1,6 @@
 ---
 title: "Climatlantic"
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
+excerpt: "Volunteer for Enhancing Altantic Climate Resilience"
 coverImage: "/assets/blog/climatlantic/tree.jpg"
 date: "2024-11-26T05:35:07.322Z"
 author:
