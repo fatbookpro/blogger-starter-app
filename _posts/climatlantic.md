@@ -1,13 +1,13 @@
 ---
 title: "Climatlantic"
 excerpt: "Volunteer for Enhancing Altantic Climate Resilience"
-coverImage: "/assets/blog/climatlantic/tree.jpg"
+coverImage: "/assets/blog/climatlantic/ladybug.jpg"
 date: "2024-11-26T05:35:07.322Z"
 author:
   name: Jordan Tan
   picture: "/assets/blog/authors/jtlogo.jpg"
 ogImage:
-  url: "/assets/blog/climatlantic/tree.jpg"
+  url: "/assets/blog/climatlantic/ladybug.jpg"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
