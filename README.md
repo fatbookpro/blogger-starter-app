@@ -1,4 +1,4 @@
-# Basic blogger with Nextjs
+# Basic blogger with Nextjs and TailwindCSS
 
 # A statically generated blog example using Next.js, Markdown, and TypeScript
 
