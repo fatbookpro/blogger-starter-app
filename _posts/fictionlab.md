@@ -4,7 +4,7 @@ excerpt: "Join the Uhill Robotics Club: Shape the Future, One Robot at a Time!."
 coverImage: "/assets/blog/fictionlab/tree.jpg"
 date: "2023-12-16T05:35:07.322Z"
 author:
-  name: JT
+  name: Jordan Tan
   picture: "/assets/blog/authors/jtlogo.jpg"
 ogImage:
   url: "/assets/blog/fictionlab/tree.jpg"
