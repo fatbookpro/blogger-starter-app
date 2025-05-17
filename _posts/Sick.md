@@ -1,13 +1,13 @@
 ---
 title: "Sick"
 excerpt: "This is the day that my illness is finally starting to fade away. The journey of being sick can no longer be repeated. My lungs were hurting every time I howe, my brain was disfunctions-due to bizarre symptoms, and my energy was at the bottom of a mountain."
-coverImage: "/assets/blog/challenge/sick.jpg"
+coverImage: "/assets/blog/challenge/sick.png"
 date: "2025-05-16T05:35:07.322Z"
 author:
   name: Jordan Tan
   picture: "/assets/blog/authors/jtlogo.jpg"
 ogImage:
-  url: "/assets/blog/challenge/sick.jpg"
+  url: "/assets/blog/challenge/sick.png"
 ---
 
 **I should exercise frequently, not occasionally, due to particular needs of my own body. Comparing to others, mine is less flexible, in which leads to strict habits – exercising daily and putting in work more times than others.**
